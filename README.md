@@ -1,3 +1,5 @@
+CREATED BY Jacob, Jacob, Pranava, Manning
+
 To install from source use commands:
 
 1   sudo pip3 install -r requirements.txt
